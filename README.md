@@ -2,6 +2,9 @@
 
 ## Simple Chatbot applications using Claude,Titan and LLama model from AWS Bedrock 
 
+![Screenshot 2024-09-12 at 6 33 31 PM](https://github.com/user-attachments/assets/7431d38d-55c3-464d-b32d-1fee7023e7a0)
+
+
 Main features of Amazon Bedrock:
 1. Access to Multiple Foundation Models:
 •	Bedrock provides access to a variety of pre-trained foundation models (FMs) from leading AI companies, such as Anthropic (Claude), Stability AI (Stable Diffusion), and AI21 Labs (Jurassic-2). These models can handle tasks like text generation, image generation, summarization, and more.
